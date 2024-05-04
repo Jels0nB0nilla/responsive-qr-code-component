@@ -1,18 +1,18 @@
 ## Table of contents
 
-- [Overview]
-  - [Screenshot]
-  - [Links]
-  - [Built_with]
-  - [Continued_development]
-  - [Useful_resources]
-- [Author]
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Built with](#built-with)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
 ## Overview
 
 ### Screenshot
 
-<img src="\images\Screenshot_8-3-2024.jpeg"
+<img src="\images\Screenshot_8-3-2024.jpeg"/>
 
 ### Links
 
