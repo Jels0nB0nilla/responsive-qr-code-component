@@ -14,7 +14,7 @@ body {
   background-color: hsl(212.31, 44.83%, 88.63%);
 }
 
-container {
+.container {
   position: absolute;
   top: 15%;
   display: flex;
