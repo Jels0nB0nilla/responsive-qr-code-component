@@ -1,23 +1,23 @@
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built with](#built-with)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
+- [Overview]
+  - [Screenshot]
+  - [Links]
+  - [Built_with]
+  - [Continued_development]
+  - [Useful_resources]
+- [Author]
 
 ## Overview
 
 ### Screenshot
 
-![qr code component screenshot](.\images\Screenshot_8-3-2024.jpeg)
+<img src="\images\Screenshot_8-3-2024.jpeg"
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-site-using-flexbox-UTEQ4m0R5c
+- Live Site URL: https://jels0nb0nilla.github.io/responsive-qr-code-component/
 
 ### Built with
 
